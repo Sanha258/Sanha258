@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-<a href="https://github.com/Sanha258/github-readme-stats"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Sanha258" /></a>
-<a href="https://github.com/anuraghazra/convoychat"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanha258&layout=compact&langs_count=8&card_width=180" /></a>
+<a href="https://github.com/Sanha258/github-readme-stats"><img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Sanha258" /></a>
+<a href="https://github.com/anuraghazra/convoychat"><img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanha258&layout=compact&langs_count=8&card_width=160" /></a>
 
 
 
