@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sanha258&theme=dracula&bg_color=00000000" />
 </a>
 <a href="https://github.com/Sanha258/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanha258&layout=compact&langs_count=8&card_width=320&theme=dracula&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanha258&layout=compact&langs_count=8&card_width=320&theme=dracula&bg_color=00000000"/>
 </a>
 
 <br>
