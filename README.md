@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h3>👋 Olá! Sou William Sanhá </h3>
 <p>- 🌱 Atualmente estou cursando Analise e Desenvolvimento de Sistemas </p>
 <p>- 👀 Estou interessado em FrontEnd  </p>
-<p>- 💞️ Estou procurando colaborar em projetos </p>
+<p>- 💞️ Estou procurando colaborar em projetos open source </p>
 
 <h4>Github Status</h4>
 <!-- personalizar o github -->
