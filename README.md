@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=007BFF&text=WILLIAM%20SANHÁ&reversal=true&fontSize=50&descAlignY=15&descAlign=14"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Cursando+Analise+e+Desen.+Sistemas;%F0%9F%91%80+Estou+interessado+em+FrontEnd+;colaboro+em+projetos+open+source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Cursando+Analise+e+Desen.+de+Sistemas;Interessado+em+Front+End;Colaborando+em+Projetos+Open+Source)](https://git.io/typing-svg)
 
  &nbsp;
  &nbsp;
