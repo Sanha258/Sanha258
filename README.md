@@ -4,18 +4,17 @@
 Sanha258/Sanha258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>👋 Olá! Sou William Sanhá </h2>
-<p>- 🌱 Atualmente estou cursando Analise e Desenvolvimento de Sistemas </p>
-<p>- 👀 Estou interessado em FrontEnd  </p>
-<p>- 💞️ Estou procurando colaborar em projetos open source </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=007BFF&text=WILLIAM%20SANHÁ&reversal=true&fontSize=50&descAlignY=15&descAlign=14"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Cursando+Analise+e+Desen.+Sistemas;%F0%9F%91%80+Estou+interessado+em+FrontEnd+;colaboro+em+projetos+open+source)](https://git.io/typing-svg)
 
  &nbsp;
  &nbsp;
  <a href="https://github.com/Sanha258/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Sanha258&theme=dracula" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Sanha258&theme=holi" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanha258&layout=compact&langs_count=8&card_width=160&theme=dracula" />
+<a href="https://github.com/Sanha258/convoychat">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanha258&layout=compact&langs_count=8&card_width=160&theme=holi" />
 </a>
 
 ## My Skills
@@ -71,8 +70,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/william-ahmed-sanha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
-
 
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=footer"/>
