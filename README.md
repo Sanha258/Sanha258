@@ -6,16 +6,23 @@ You can click the Preview link to take a look at your changes.
 --->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=007BFF&text=WILLIAM%20SANHÁ&reversal=true&fontSize=50&descAlignY=15&descAlign=14"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Cursando+Analise+e+Desen.+Sistemas;%F0%9F%91%80+Estou+interessado+em+FrontEnd+;colaboro+em+projetos+open+source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Cursando+Analise+e+Desen.+Sistemas;%F0%9F%91%80+Estou+interessado+em+FrontEnd+;colaboro+em+projetos+open+source)](https://git.io/typing-svg)
 
  &nbsp;
  &nbsp;
- <a href="https://github.com/Sanha258/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Sanha258&theme=holi" />
-</a>
-<a href="https://github.com/Sanha258/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanha258&layout=compact&langs_count=8&card_width=160&theme=holi" />
-</a>
+ <div align= "center">
+    <a href="https://github.com/Sanha258/github-readme-stats">
+     <img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Sanha258&theme=holi"/>
+   </a>
+   <a href="https://github.com/Sanha258/convoychat">
+     <img width="49%" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanha258&layout=compact&langs_count=8&card_width=160&theme=holi"/>
+   </a>
+ </div>
+
+ <br>
+ <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanha258&bg_color=1b1b1d&color=006af5&line=063cbc&point=9da1a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Skills
 
