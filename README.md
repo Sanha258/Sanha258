@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
      <img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Sanha258&theme=holi"/>
    </a>
    <a href="https://github.com/Sanha258/convoychat">
-     <img width="49%" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanha258&layout=compact&langs_count=8&card_width=160&theme=holi"/>
+     <img width="41%" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanha258&layout=compact&langs_count=8&card_width=160&theme=holi"/>
    </a>
  </div>
 
